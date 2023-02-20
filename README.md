@@ -12,19 +12,19 @@ To run the program, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/wem666/perpetual_existence.git`
+   `git clone https://github.com/wem666/perpetual_existence.git`
 
 2. Open a terminal window and navigate to the directory where you cloned the repository.
 
 3. Run the following command to compile the program:
 
-`make`
+   `make`
 
 This will create an executable file called `perpetual_existence`.
 
 4. Run the program using the following command:
 
-`./perpetual_existence`
+   `./perpetual_existence`
 
 5. The program will display a message and wait for 2 seconds before deleting itself. If the deletion is successful, the program will print a success message. If not, it will print an error message.
 
@@ -36,7 +36,7 @@ To remove the program from your system, follow these steps:
 
 2. Run the following command to remove the program:
 
-`make clean`
+   `make clean`
 
 This will delete the executable file from your system, because even programs that strive for perpetual existence sometimes need to rest in peace.
 
